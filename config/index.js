@@ -17,8 +17,8 @@ module.exports = {
 		productionGzipExtensions: ['js', 'css'],
 		port: 9000,
         	sellUrl: 'http://sell.com',
-        	openidUrl: 'http://sqmax.natapp1.cc/sell/wechat/authorize',
-        	wechatPayUrl: 'http://sqmax.natapp1.cc/sell/pay/create'
+        	openidUrl: 'http://neuwangyue.tech/sell/wechat/authorize',
+        	wechatPayUrl: 'http://neuwangyue.tech/sell/pay/create'
 	},
 	dev: {
 		env: require('./dev.env'),
